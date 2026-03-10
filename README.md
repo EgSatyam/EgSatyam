@@ -41,14 +41,8 @@ const satyam = {
 };
 ```
 
-- 🔭 Currently building **SEO-WEB-ANALYZER** — a full-stack SEO analysis platform
-- 🛠️ Creator of **Hintro_Project** — real-time collaborative board app
-- 🐍 Built **SEO-Analyzer** in Python — lightweight text SEO performance tool
-- 🌱 Exploring **TypeScript**, **System Design**, and **DevOps**
-- 🎯 Goal: Deliver full-stack products that actually solve problems
-- ⚡ Fun fact: I ship more than I sleep
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -134,51 +128,7 @@ const satyam = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EgSatyam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgSatyam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EgSatyam&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EgSatyam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=7c3aed&point=a78bfa" width="100%"/>
-
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EgSatyam&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
-
-</div>
-
----
-
-## 📈 Profile Visitors
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=EgSatyam&label=Profile+Views&color=7c3aed&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
