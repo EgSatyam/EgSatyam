@@ -5,7 +5,7 @@
 
 <div align="center">
 <!-- Typing animation -->
-Show Image
+
 </div>
 <br/>
 
