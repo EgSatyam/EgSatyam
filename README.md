@@ -8,12 +8,7 @@
 Show Image
 </div>
 <br/>
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
+
 >
 
 ---
