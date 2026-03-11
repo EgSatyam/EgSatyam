@@ -1,9 +1,20 @@
 <div align="center">
-
 <!-- Dynamic Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Satyam%20Sahu&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Things%20that%20Matter&descAlignY=78&descSize=16&descColor=a78bfa" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Satyam%20Sahu&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Builder%20of%20Things%20that%20Matter&descSize=18&descAlignY=68&descColor=fff" width="100%"/>
 </div>
+
+<div align="center">
+<!-- Typing animation -->
+Show Image
+</div>
+<br/>
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+>
 
 ---
 
