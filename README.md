@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/satyam-sahu-545737275/](https://www.linkedin.com/in/satyam-sahu-545737275?utm_source=share_via&utm_content=profile&utm_medium=member_ios)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/satyam-sahu-545737275?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/EgSatyam](https://github.com/EgSatyam))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsahu111213@gmail.com)
 
